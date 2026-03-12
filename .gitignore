@@ -49,7 +49,6 @@ packages/tools/commit_hook.txt
 packages/tools/github_oauth_token.txt
 packages/app-desktop/main-html-out.js
 lerna-debug.log
-.env
 docs/**/*.mustache
 .idea
 /readme/i18n
@@ -133,7 +132,6 @@ packages/app-cli/tests/services/plugins/defaultPluginsUtils.js
 packages/app-cli/tests/services/plugins/sandboxProxy.js
 packages/app-cli/tests/testUtils.js
 packages/app-cli/tools/populateDatabase.js
-packages/app-desktop/ElectronAppWrapper.test.js
 packages/app-desktop/ElectronAppWrapper.js
 packages/app-desktop/InteropServiceHelper.js
 packages/app-desktop/app.reducer.test.js
@@ -1957,3 +1955,4 @@ packages/whisper-voice-typing/src/index.js
 packages/whisper-voice-typing/src/specs/Whisper.nitro.js
 # AUTO-GENERATED - EXCLUDED TYPESCRIPT BUILD
 
+config.bat
