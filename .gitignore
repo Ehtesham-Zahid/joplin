@@ -49,7 +49,6 @@ packages/tools/commit_hook.txt
 packages/tools/github_oauth_token.txt
 packages/app-desktop/main-html-out.js
 lerna-debug.log
-.env
 docs/**/*.mustache
 .idea
 /readme/i18n
@@ -341,7 +340,6 @@ packages/app-desktop/gui/NoteListHeader/NoteListHeaderItem.js
 packages/app-desktop/gui/NoteListHeader/types.js
 packages/app-desktop/gui/NoteListHeader/useDragAndDrop.test.js
 packages/app-desktop/gui/NoteListHeader/useDragAndDrop.js
-packages/app-desktop/gui/NoteListHeader/utils/getColumnTitle.test.js
 packages/app-desktop/gui/NoteListHeader/utils/getColumnTitle.js
 packages/app-desktop/gui/NoteListHeader/utils/useContextMenu.js
 packages/app-desktop/gui/NoteListHeader/utils/validateColumns.test.js
@@ -1961,3 +1959,4 @@ packages/whisper-voice-typing/src/index.js
 packages/whisper-voice-typing/src/specs/Whisper.nitro.js
 # AUTO-GENERATED - EXCLUDED TYPESCRIPT BUILD
 
+config.bat
